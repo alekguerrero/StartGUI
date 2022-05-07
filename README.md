@@ -10,7 +10,7 @@ In this repo you will find:
 1. A canvas with a sidebar where you can choose from multiple shapes
 2. 2 icons that show the shape that will be drawn on the canvas
 3. A trashcan icon that isn't fully enabled yet
-4. Curated [FontAwesome Kit] (https://kit.fontawesome.com/306bdfed4d) to generate the buttons
+4. [FontAwesome Kit](https://kit.fontawesome.com/306bdfed4d) to generate the buttons
 
 #### Working Code Properties/Actions:
 1. When you click the icon on the sidebar, shapes appear
