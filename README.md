@@ -5,6 +5,7 @@ This code shows the first steps in creating a graphical user interface (GUI) tha
 In this repo you will find:
 1. WorkingCode Directory: This directory has the working elements of the code as it is. It contains two .js files (moodActions.js & sketch.js), one HTML file (index.html), and one CSS file (style.css)
 2. TestFiles Directory: This directory has the test codes that haven't worked yet, or we haven't fully enabled. It contains two .js files (moodActionsTest.js & sketchTest.js), one HTML file (indexTest.html), and one CSS file (styleTest.css)
+3. A short document containing some pseudocode for next steps/missing elements
 
 #### Working Code Elements:
 1. A canvas with a sidebar where you can choose from multiple shapes
