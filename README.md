@@ -1,5 +1,6 @@
-# StartGUI
-This code shows the first steps in creating a graphical user interface (GUI) that can be built upon to create complex relationships for a mechanical plush toy.
+# StartGUI Repo Description
+This repo contains multiple files. You will find:
+1. Four .js files with different names (code shows the first steps in creating a graphical user interface (GUI) that can be built upon to create complex relationships for a mechanical plush toy.
 
 #### Elements:
 1. A canvas with a sidebar where you can choose from multiple shapes
