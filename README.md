@@ -16,16 +16,16 @@ In this repo you will find:
 2. When the mouse rolls over the shape, it changes color
 3. When you click on the shape, you can drag it to another position
 
-# Next Steps:
-1. Enable the trash can/clear button
-2. Figure out how to connect shapes using a line
-3. Figure out how to get shapes to stop moving
-4. Find out how to call the new "tied shapes" so that we can enable them in the backend
-5. Tie the backend code and GUI to mechanical sensors
-
 # Installation Instructions:
 1. Open the [P5.js editor](https://editor.p5js.org/) or your IDE of choice.
 2. Make sure you have multiple files created (HTML, CSS, JS), P5.js will already have three of these.
 3. Make an additional P5.js file titled "MoodActions.js"
 4. Take each file in this repo and copy them to the corresponding files in the editor
 5. Make sure you copy either the working script or test script, depending on which you are trying to work on.
+
+# Next Steps:
+1. Enable the trash can/clear button
+2. Figure out how to connect shapes using a line
+3. Figure out how to get shapes to stop moving
+4. Find out how to call the new "tied shapes" so that we can enable them in the backend
+5. Tie the backend code and GUI to mechanical sensors
